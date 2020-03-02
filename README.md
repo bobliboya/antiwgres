@@ -1,3 +1,9 @@
+#欢迎来到朱古的空间！
+敬请观看！
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bobliboya/zhugu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
